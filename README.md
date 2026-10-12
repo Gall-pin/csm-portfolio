@@ -115,13 +115,14 @@ Temps de mise en production élevé.
 ### Data & Reporting
 - Power BI
 - Excel Advanced
-- Power Query
+- Claude Cowork
 
 ### Collaboration
 - Microsoft 365
 - Teams
-- Jira
+- Jira 
 - Confluence
+- Trello
 
 ---
 
