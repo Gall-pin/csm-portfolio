@@ -4,6 +4,12 @@ Customer Success Manager
 
 ## Senior Customer Success Manager | Customer Experience | Business Growth
 
+### Onboarding -> Adoption -> Retention -> Data -> Optimisation
+
+I take owhership of the client outcome, not only the individual requaest. I connect client feedback, data and internal teams to move from a problem to a practical solution - abd I follow through util the client ca succeed. 
+
+I owned the day-to-day relationship with a portfolio of 120+ B2B clients across mutiple industries, prioritising cases acoording to deadlines, volumes and business criticality. 
+
 Passionné par la réussite client, j'accompagne les entreprises dans l'adoption de solutions technologiques, le développement de la valeur client et la réduction de l'attrition.
 
 Mon approche combine stratégie Customer Success, analyse de données et accompagnement exécutif afin de transformer la satisfaction client en croissance durable.
@@ -161,9 +167,11 @@ Temps de mise en production élevé.
 
 ## 📫 Contact
 
+Natalia Galushkina
 🔗 LinkedIn : https://linkedin.com/in/nataliagalushkina
 
 📧 Email : npinho.comm@gmail.com
 
 🌍 Localisation : France, Le Mans
+Remote-friendly
 
