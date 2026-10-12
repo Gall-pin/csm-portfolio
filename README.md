@@ -100,6 +100,23 @@ Temps de mise en production élevé.
 
 ---
 
+### Customer Health Score Framework
+
+**Contexte**
+Temps de mise en production élevé.
+
+**Actions**
+- Standardisation du parcours d'intégration
+- Création d'un Success Plan
+- Points de contrôle à 30, 60 et 90 jours
+
+**Résultats**
+- Adoption accélérée
+- Réduction du Time-To-Value
+- Amélioration de la satisfaction client
+
+---
+
 ## 🛠 Outils & Technologies
 
 ### CRM
