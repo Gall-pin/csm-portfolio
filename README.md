@@ -117,88 +117,98 @@ The client was concerned about the potential cannibalisation and refused to depl
 ***I delivered*** a clear before-and-after reporting to show the impact of optimisation.
  
 **Résultats**
-- Conversion rate increased. 
+- Conversion rate grew by 2%. 
 - The client extended our solution on mobile version.
 - The client unlocked an additional monthly budget for the following year (3 times their initial investment)
   
-
 ---
 
-### 3. Onboarding 
+### 3. Turning Onboarding into Early Product Adoption 
 
 **Context**
-CSMs needed to respect a capped monthly budget.
+A new client needed to understand and adopt a digital messaging platform on In-house mode.
 
 **Challenge**
-Make the monitoring actionable and less time-consuming.
+The client wanted to move from initial setup to confident, independent and sucessfull use of the solution.
 
 **What I Owned**
 
-***I owned*** the daily monitoring of performance, evolution, budget spent and remaining budget.
+***I owned*** the client onboarding and remote training session with the best in-house practice.
 
-***I led*** the analysis of CSMs needs regarding client follow-up.
+***I led*** the identification of the client's goals and discovering the support service limits.
 
-***I built*** a custom Claude-powered report that can be launched on demand.
+***I built*** a clear adoption path adapted to their business context.
 
-***I delivered*** a clear view on clients' daily budget evolution and detection of the right moment to adjust settings
+***I delivered*** practical guidance to help the client become autonomous.
  
 **Résultats**
-- Made client monitoring easier and more more intuituve
-- Helped CSMs detect meaningful changes earlier
-- Reduced the time needed for this monitoring (-50%)
-- Maintain client satisfaction
+- The client chose a Hybrid mode instead of In-house mode.
+- The client evolved into a true partner, actively sharing feedback on the platform experience and contributing improvement ideas.  
+- The client became a loyal brand advocate, recommending our solution to affiliated structure.
 
 ---
 
-### Daily Client Monitoring Within a Capped Budget
+### 4. A Practial Test and Learn Method Application
 
 **Context**
-CSMs needed to respect a capped monthly budget.
+The Client raised concerns regarding a key feature on the Mobile version.
 
 **Challenge**
-Make the monitoring actionable and less time-consuming.
+To measure the results with and without this feature despite the absense of A/B testing tool.
 
 **What I Owned**
 
-***I owned*** the daily monitoring of performance, evolution, budget spent and remaining budget.
+***I owned*** the test-and-learn approach used to evaluate the feature's impact.
 
-***I led*** the analysis of CSMs needs regarding client follow-up.
+***I led*** the definition of the test protocol : test period, performance comparison and rollback criteria.
 
-***I built*** a custom Claude-powered report that can be launched on demand.
+***I built*** a before-and-after analysis comparing test-period performance with historical averages. 
 
-***I delivered*** a clear view on clients' daily budget evolution and detection of the right moment to adjust settings
+***I delivered*** practical guidance to help the client become autonomous.
+
+***I raised*** the need for dedicated A/B testing capabilituies as a potential product improvement .
  
 **Résultats**
-- Made client monitoring easier and more more intuituve
-- Helped CSMs detect meaningful changes earlier
-- Reduced the time needed for this monitoring (-50%)
-- Maintain client satisfaction
+- xxxx
+- xxxxx
+- xxxx
+- xxx
 
 ---
 
-### Customer Health Score Framework
+### 5. Retainingan At-Risk Client through ....
 
 **Contexte**
-Temps de mise en production élevé.
+A client showed signs of dissatisfaction and risk of churn....
 
-**Actions**
-- Standardisation du parcours d'intégration
-- Création d'un Success Plan
-- Points de contrôle à 30, 60 et 90 jours
+**Challenge**
+.........
 
+**What I Owned**
+
+***I owned*** the daily monitoring of performance, evolution, budget spent and remaining budget.
+
+***I led*** the analysis of the root causes of dissatisfaction.
+
+***I built*** an action plan with cleat next steps and regular follow-up meetings.
+
+***I delivered*** regular updates until the situation was resolved.
+
+ 
 **Résultats**
-- Adoption accélérée
-- Réduction du Time-To-Value
-- Amélioration de la satisfaction client
+- xxxx
+- xxxx
+- xxxxx
+- xxxxx
 
 ---
 
 ## 🛠 Outils & Technologies
 
 ### CRM
-- Salesforce
 - HubSpot
-- Microsoft Dynamics
+- Salesforce
+- Unlatch
 
 ### Customer Success Platforms
 - Gainsight
