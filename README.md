@@ -44,13 +44,13 @@ Having developed strong experience in client onboarding, retention, satisfaction
 
 ## 📊 Quelques résultats obtenus
 
-### 📈 Réduction de l'attrition
+### 📈 Retention
 
-- Réduction du churn de 11 % à 6 %
+- Maintaining 2% of churn rate during 3 years
 - Mise en place d'un programme de gestion proactive des risques
 - Déploiement d'indicateurs de santé client
 
-### 🚀 Accélération de l'adoption
+### 🚀 Adoption
 
 - Augmentation de l'adoption produit de 35 %
 - Refonte du parcours d'onboarding
@@ -59,13 +59,13 @@ Having developed strong experience in client onboarding, retention, satisfaction
 ### 💰 Croissance du portefeuille
 
 - Développement des revenus récurrents via upsell et cross-sell
-- Gestion d'un portefeuille de clients stratégiques
+- 8% of Gestion d'un portefeuille de clients stratégiques
 - Renforcement des relations C-Level
 
-### 😊 Satisfaction client
+### 😊 Satisfaction
 
-- Amélioration du NPS
-- Mise en œuvre d'une gouvernance client structurée
+- My personnal note is 9,5 / 10 
+- xxxxx
 - Création de QBR orientés valeur métier
 
 ---
