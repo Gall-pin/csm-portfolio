@@ -81,6 +81,7 @@ CSMs needed to respect a capped monthly budget.
 Make the monitoring actionable and less time-consuming.
 
 **What I Owned**
+
 ***I owned*** the daily monitoring of performance, evolution, budget spent and remaining budget.
 ***I led*** the analysis of CSMs needs regarding client follow-up.
 ***I built*** a custom Claude-powered report that can be launched on demand
