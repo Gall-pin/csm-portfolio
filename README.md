@@ -1,6 +1,6 @@
 # csm-portfolio
 Customer Success Manager
-# 👋 Bonjour, je suis Prénom NOM
+# 👋 Bonjour, je suis Natalia
 
 ## Senior Customer Success Manager | Customer Experience | Business Growth
 
@@ -10,7 +10,7 @@ Customer-focused professional with 4.5 years of experience in B2B account manage
 I successfully contributed to the expansion of a client portfolio from 20 to more than 120 accounts by delivering a high-touch customer experience.
 I owned the day-to-day business relationships across mutiple industries in 5 countries, prioritising projects according to deadlines, volumes, and business criticality.
 
-I take owhership of the client outcome, not only of the individual requests. I connect client feedback, data and internal teams to move from a problem to a practical solution - and I follow through until the client can succeed. 
+I take ownership of the client outcome, not only of the individual requests. I connect client feedback, data and internal teams to move from a problem to a practical solution - and I follow through until the client can succeed. 
 
 Having developed strong experience in client onboarding, retention, satisfaction, I want to develop my career within a SaaS environement. I am currently strengthening my skills in Conversion Rate Optimisation to master the levers of digital performance and help clients achieve their business goals.  
 
@@ -31,8 +31,6 @@ Having developed strong experience in client onboarding, retention, satisfaction
 ✅ Churn Reduction
 
 ✅ Quarterly Business Reviews (QBR)
-
-✅ Executive Stakeholder Management
 
 ✅ Revenue Expansion
 
@@ -72,39 +70,73 @@ Having developed strong experience in client onboarding, retention, satisfaction
 
 ---
 
-## 📂 Études de cas
+## 📂 Case Study
 
-### Customer Health Score Framework
+### Daily Client Monitoring Within a Capped Budget
 
-**Contexte**
-Absence de visibilité sur les comptes à risque.
+**Context**
+CSMs needed to respect a capped monthly budget.
 
-**Actions**
-- Création d'un Health Score
-- Définition des indicateurs de risque
-- Mise en place d'alertes automatisées
+**Challenge**
+Make the monitoring actionable and less time-consuming.
 
+**What I Owned**
+***I owned*** the daily monitoring of performance, evolution, budget spent and remaining budget.
+***I led*** the analysis of CSMs needs regarding client follow-up.
+***I built*** a custom Claude-powered report that can be launched on demand
+***I delivered*** a clear view on clients' daily budget evolution and detection of the right moment to adjust settings
+ 
 **Résultats**
-- Identification précoce des comptes à risque
-- Réduction du churn
-- Amélioration des prévisions de renouvellement
+- Made client monitoring easier and more more intuituve
+- Helped CSMs detect meaningful changes earlier
+- Reduced the time needed for this monitoring (-50%)
+- Maintain client satisfaction
 
 ---
 
-### Programme d'Onboarding Enterprise
+### Daily Client Monitoring Within a Capped Budget
 
-**Contexte**
-Temps de mise en production élevé.
+**Context**
+CSMs needed to respect a capped monthly budget.
 
-**Actions**
-- Standardisation du parcours d'intégration
-- Création d'un Success Plan
-- Points de contrôle à 30, 60 et 90 jours
+**Challenge**
+Make the monitoring actionable and less time-consuming.
 
+**What I Owned**
+***I owned*** the daily monitoring of performance, evolution, budget spent and remaining budget.
+***I led*** the analysis of CSMs needs regarding client follow-up.
+***I built*** a custom Claude-powered report that can be launched on demand
+***I delivered*** a clear view on clients' daily budget evolution and detection of the right moment to adjust settings
+ 
 **Résultats**
-- Adoption accélérée
-- Réduction du Time-To-Value
-- Amélioration de la satisfaction client
+- Made client monitoring easier and more more intuituve
+- Helped CSMs detect meaningful changes earlier
+- Reduced the time needed for this monitoring (-50%)
+- Maintain client satisfaction
+
+---
+
+### Daily Client Monitoring Within a Capped Budget
+
+**Context**
+CSMs needed to respect a capped monthly budget.
+
+**Challenge**
+Make the monitoring actionable and less time-consuming.
+
+**What I Owned**
+***I owned*** the daily monitoring of performance, evolution, budget spent and remaining budget.
+***I led*** the analysis of CSMs needs regarding client follow-up.
+***I built*** a custom Claude-powered report that can be launched on demand
+***I delivered*** a clear view on clients' daily budget evolution and detection of the right moment to adjust settings
+ 
+**Résultats**
+- Made client monitoring easier and more more intuituve
+- Helped CSMs detect meaningful changes earlier
+- Reduced the time needed for this monitoring (-50%)
+- Maintain client satisfaction
+
+---
 
 ---
 
