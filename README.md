@@ -94,10 +94,10 @@ Make the monitoring actionable and less time-consuming.
 
 ---
 
-### Daily Client Monitoring Within a Capped Budget
+### Improving Conversion Rate Through Message Personnalisation  
 
 **Context**
-CSMs needed to respect a capped monthly budget.
+A client wanted to enhance the ROI CSMs needed to respect a capped monthly budget.
 
 **Challenge**
 Make the monitoring actionable and less time-consuming.
