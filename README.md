@@ -91,7 +91,7 @@ Make the monitoring actionable and less time-consuming.
 ***I delivered*** a clear view on clients' daily budget evolution and detection of the right moment to adjust settings.
  
 **Résultats**
-- Made client monitoring easier and more more intuituve
+- Made client monitoring easier and more intuituve
 - Helped CSMs detect meaningful changes earlier
 - Reduced the time needed for this monitoring (-50%)
 - Maintain client satisfaction
