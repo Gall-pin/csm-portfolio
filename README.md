@@ -40,6 +40,8 @@ Mon approche combine stratégie Customer Success, analyse de données et accompa
 
 ✅ Data-Driven Decision Making
 
+✅ Lead Generation
+
 ---
 
 ## 📊 Quelques résultats obtenus
@@ -151,17 +153,14 @@ Temps de mise en production élevé.
 
 ## 📚 Certifications
 
-- Microsoft
-- ITIL Foundation
-- Salesforce
-- Customer Success Leadership
+Conversion Rate Optimisation (training in progress) 
 
 ---
 
-## 🤝 Ma philosophie
+## 🤝 Mt Philosophy
 
-> La fidélisation ne consiste pas seulement à conserver les clients.
-> Elle consiste à leur permettre d'atteindre leurs objectifs métier plus rapidement et plus durablement.
+> Like a gardener, I plant seeds of possibility, bring light to uncertainty, water ideas with care, and celebrate the fruits of my clients' growth.
+(Even though my own plants may not always survive, my clients always feel supported ;)
 
 ---
 
@@ -169,9 +168,6 @@ Temps de mise en production élevé.
 
 Natalia Galushkina
 🔗 LinkedIn : https://linkedin.com/in/nataliagalushkina
-
 📧 Email : npinho.comm@gmail.com
-
-🌍 Localisation : France, Le Mans
-Remote-friendly
+🌍 Localisation : France, Le Mans (Remote-friendly)
 
