@@ -91,7 +91,7 @@ Make the monitoring actionable and less time-consuming.
 ***I delivered*** a clear view on clients' daily budget evolution and detection of the right moment to adjust settings.
  
 **Résultats**
-- Made client monitoring easier and more intuituve
+- Made client monitoring easier and more intuitive
 - Helped CSMs detect meaningful changes earlier
 - Reduced the time needed for this monitoring (-50%)
 - Maintain client satisfaction
@@ -164,7 +164,7 @@ To measure the results with and without this feature despite the absense of A/B 
 
 ***I built*** a before-and-after analysis comparing test-period performance with historical averages. 
 
-***I raised*** the need for dedicated A/B testing capabilituies as a potential product improvement .
+***I raised*** the need for dedicated A/B testing capabilities as a potential product improvement .
  
 **Résultats**
 - Reduced uncertainty around the feature rollout by showing clear results.
