@@ -12,7 +12,7 @@ I owned the day-to-day business relationships across mutiple industries in 5 cou
 
 I take owhership of the client outcome, not only of the individual requests. I connect client feedback, data and internal teams to move from a problem to a practical solution - and I follow through until the client can succeed. 
 
-Having developed strong experience in client onboarding, retention, satisfaction, I want to develop my Career within a SaaS environement. I am currently strengthening my skills in Conversion Rate Optimisation to master the levers of digital pergormance and help clients achieve their business goals.  
+Having developed strong experience in client onboarding, retention, satisfaction, I want to develop my career within a SaaS environement. I am currently strengthening my skills in Conversion Rate Optimisation to master the levers of digital performance and help clients achieve their business goals.  
 
 ---
 
