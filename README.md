@@ -164,14 +164,12 @@ To measure the results with and without this feature despite the absense of A/B 
 
 ***I built*** a before-and-after analysis comparing test-period performance with historical averages. 
 
-***I delivered*** xxxxxxxxx
-
 ***I raised*** the need for dedicated A/B testing capabilituies as a potential product improvement .
  
 **Résultats**
-- Reduced uncertainty aront the feature rollout by showing clear results.
+- Reduced uncertainty around the feature rollout by showing clear results.
 - Strengthened client trust and engagement through a transparent process.
-- Identified limitations in existing measurement capabimities and advocated for the future product enhancement.
+- Identified limitations in existing measurement capabilities and advocated for the future product enhancement.
 
 ---
 
