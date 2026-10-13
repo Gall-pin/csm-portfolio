@@ -101,22 +101,25 @@ Make the monitoring actionable and less time-consuming.
 ### Improving Conversion Rate Through Message Personnalisation  
 
 **Context**
-A client wanted to enhance the ROI CSMs needed to respect a capped monthly budget.
+A client wanted to enhance the ROI from using our conersational tool.
 
 **Challenge**
-Make the monitoring actionable and less time-consuming.
-
+The client were afraid of cannibalisation and didn't want to set the solution on the most performed pages
 **What I Owned**
-***I owned*** the daily monitoring of performance, evolution, budget spent and remaining budget.
-***I led*** the analysis of CSMs needs regarding client follow-up.
-***I built*** a custom Claude-powered report that can be launched on demand
-***I delivered*** a clear view on clients' daily budget evolution and detection of the right moment to adjust settings
+
+***I owned*** the analysis of performances and current settings.
+
+***I led*** the definition of a personalisation hypothesis.
+
+***I built*** tailored wordings according the webpages content.
+
+***I delivered*** a clear comparison of performances before and after the change.
  
 **Résultats**
-- Made client monitoring easier and more more intuituve
-- Helped CSMs detect meaningful changes earlier
-- Reduced the time needed for this monitoring (-50%)
-- Maintain client satisfaction
+- Conversion rate increased. 
+- The client extended our solution on mobile version.
+- The client unlocked more monthly budget for the following year (3 times their initial investment)
+  
 
 ---
 
