@@ -83,8 +83,11 @@ Make the monitoring actionable and less time-consuming.
 **What I Owned**
 
 ***I owned*** the daily monitoring of performance, evolution, budget spent and remaining budget.
+
 ***I led*** the analysis of CSMs needs regarding client follow-up.
-***I built*** a custom Claude-powered report that can be launched on demand
+
+***I built*** a custom Claude-powered report that can be launched on demand.
+
 ***I delivered*** a clear view on clients' daily budget evolution and detection of the right moment to adjust settings
  
 **Résultats**
