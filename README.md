@@ -6,13 +6,13 @@ Customer Success Manager
 
 ### Onboarding -> Adoption -> Retention -> Data -> Optimisation
 
-I take owhership of the client outcome, not only the individual requaest. I connect client feedback, data and internal teams to move from a problem to a practical solution - abd I follow through util the client ca succeed. 
+Customer-focused professional with 4.5 years of experience in B2B account management and client development. 
+I successfully contributed to the expansion of a client portfolio from 20 to more than 120 accounts by delivering a high-touch customer experience.
+I owned the day-to-day business relationships across mutiple industries in 5 countries, prioritising projects according to deadlines, volumes, and business criticality.
 
-I owned the day-to-day relationship with a portfolio of 120+ B2B clients across mutiple industries, prioritising cases acoording to deadlines, volumes and business criticality. 
+I take owhership of the client outcome, not only of the individual requests. I connect client feedback, data and internal teams to move from a problem to a practical solution - and I follow through util the client can succeed. 
 
-Passionné par la réussite client, j'accompagne les entreprises dans l'adoption de solutions technologiques, le développement de la valeur client et la réduction de l'attrition.
-
-Mon approche combine stratégie Customer Success, analyse de données et accompagnement exécutif afin de transformer la satisfaction client en croissance durable.
+Having developed strong experience in client onboarding, retention, satisfaction, I want to develop my Career within a SaaS environement. I am currently strengthening my skills in Conversion Rate Optimisation to master the levers of digital pergormance and help clients achieve their business goals.  
 
 ---
 
