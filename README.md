@@ -164,7 +164,7 @@ To measure the results with and without this feature despite the absense of A/B 
 
 ***I built*** a before-and-after analysis comparing test-period performance with historical averages. 
 
-***I delivered*** practical guidance to help the client become autonomous.
+***I delivered*** xxxxxxxxx
 
 ***I raised*** the need for dedicated A/B testing capabilituies as a potential product improvement .
  
