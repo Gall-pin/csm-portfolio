@@ -175,7 +175,7 @@ To measure the results with and without this feature despite the absense of A/B 
 
 ---
 
-### 5. Retainingan At-Risk Client through ....
+### 5. Retaining an At-Risk Client Through Pro-active Follow-Ups
 
 **Contexte**
 A client showed signs of dissatisfaction and risk of churn....
