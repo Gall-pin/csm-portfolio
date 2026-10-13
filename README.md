@@ -117,7 +117,7 @@ The client was concerned about the potential cannibalisation and refused to depl
 ***I delivered*** a clear before-and-after reporting to show the impact of optimisation.
  
 **Résultats**
-- Conversion rate grew by 2%. 
+- Conversion rate grew by 2 pts. 
 - The client extended our solution on mobile version.
 - The client unlocked an additional monthly budget for the following year (3 times their initial investment).
   
