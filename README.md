@@ -43,26 +43,15 @@ Having developed strong experience in client onboarding, retention, satisfaction
 ### 📈 Retention
 
 - Maintaining 2% of churn rate during 3 years
-- Mise en place d'un programme de gestion proactive des risques
-- Déploiement d'indicateurs de santé client
 
-### 🚀 Adoption
+### 💰 Portfolio Growth
 
-- Augmentation de l'adoption produit de 35 %
-- Refonte du parcours d'onboarding
-- Mise en place de plans de succès personnalisés
-
-### 💰 Croissance du portefeuille
-
-- Développement des revenus récurrents via upsell et cross-sell
-- 8% of Gestion d'un portefeuille de clients stratégiques
-- Renforcement des relations C-Level
+- Managed and expanded a portfolio from 20 to 120 accounts, supporting customers across 5 european countries and 8 industries, including strategic key accounts (8% of portfolio)
 
 ### 😊 Satisfaction
 
-- My personnal note is 9,5 / 10 
-- xxxxx
-- Création de QBR orientés valeur métier
+- My personnal client's note is 9,5 / 10 
+- 95% trial-to-paid conversion rate
 
 ---
 
