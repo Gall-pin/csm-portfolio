@@ -50,7 +50,7 @@ Having developed strong experience in client onboarding, retention, satisfaction
 
 ### 😊 Satisfaction
 
-- My personnal client's note is 9,5 / 10 
+- My individual client's note is 9,5 / 10 
 - 95% trial-to-paid conversion rate
 
 ---
@@ -149,7 +149,7 @@ To measure the results with and without this feature despite the absense of A/B 
 
 ***I built*** a before-and-after analysis comparing test-period performance with historical averages. 
 
-***I raised*** the need for dedicated A/B testing capabilities as a potential product improvement .
+***I raised*** the need for dedicated A/B testing capabilities as a potential product improvement.
  
 **Résultats**
 - Reduced uncertainty around the feature rollout by showing clear results.
@@ -158,44 +158,38 @@ To measure the results with and without this feature despite the absense of A/B 
 
 ---
 
-### 5. Retaining an At-Risk Client Through Pro-active Follow-Ups
+### 5. Retaining an At-Risk Client Through Cross-Functional Mobilisation
 
-**Contexte**
-A client showed signs of dissatisfaction and risk of churn....
+**Context**
+A key client showed signs of dissatisfaction and risk of churn due to a drop of conversion rate.
 
 **Challenge**
-.........
+The situation was particularly critical as the client was working with the second competing provider, whose performance remained stable.
 
 **What I Owned**
 
-***I owned*** the daily monitoring of performance, evolution, budget spent and remaining budget.
+***I owned*** a 360° analysys to identify where drop-offs occured in the conversion funnel.    
 
-***I led*** the analysis of the root causes of dissatisfaction.
+***I led*** the cross-functional investigation involving Data, IT, and Commercial teams to identify the root causes of this decline.
 
-***I built*** an action plan with cleat next steps and regular follow-up meetings.
+***I built*** a recovery plan with clear actions, timelines, owners, and goals to restore the metrics.
 
-***I delivered*** regular updates until the situation was resolved.
+***I delivered*** transparent communication on progress, maintaining client confidence throughout the recovery process.
 
  
 **Résultats**
-- xxxx
-- xxxx
-- xxxxx
-- xxxxx
+- Retained a strategic client and restored client's confidence.
+- Identified the potential risk affecting other clients facing similar issue, enabling preventive actions at scale.
+- Strengthened internal collaboration process for faster issue resolution in future critical situations.
 
 ---
 
-## 🛠 Outils & Technologies
+## 🛠 Tools
 
 ### CRM
 - HubSpot
 - Salesforce
 - Unlatch
-
-### Customer Success Platforms
-- Gainsight
-- Totango
-- Planhat
 
 ### Data & Reporting
 - Power BI
@@ -230,4 +224,6 @@ Natalia Galushkina
 🔗 LinkedIn : https://linkedin.com/in/nataliagalushkina
 📧 Email : npinho.comm@gmail.com
 🌍 Localisation : France, Le Mans (Remote-friendly)
+🌐 Languages : French, English, Russian, Chinese (HSK 4).
+
 
