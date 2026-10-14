@@ -2,7 +2,7 @@
 Customer Success Manager
 # 👋 Bonjour, je suis Natalia
 
-## Senior Customer Success Manager | Customer Experience | Business Growth
+## Senior Customer Success Manager | Customer Relationship Experience | Business Growth
 
 ### Onboarding -> Adoption -> Retention -> Data -> Optimisation
 
