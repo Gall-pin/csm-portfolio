@@ -40,6 +40,9 @@ Having developed strong experience in client onboarding, retention, satisfaction
 
 ✅ Lead Generation
 
+✅ Digital Marketing
+
+
 ---
 
 ## 📊 Key Results
