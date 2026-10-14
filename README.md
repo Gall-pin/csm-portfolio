@@ -211,10 +211,10 @@ Conversion Rate Optimisation (training in progress)
 
 ---
 
-## 🤝 Mt Philosophy
+## 🤝 My Philosophy
 
 > Like a gardener, I plant seeds of possibility, bring light to uncertainty, water ideas with care, and celebrate the fruits of my clients' growth.
-(Even though my own plants may not always survive, my clients always feel supported ;)
+***Even though my own plants may not always survive, my clients always feel supported***
 
 ---
 
