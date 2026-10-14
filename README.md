@@ -18,30 +18,23 @@ Having developed strong experience in client onboarding, retention, satisfaction
 
 ## 🎯 Core Areas of Expertise
 
-✅ Customer Success Management
+✅ Customer Success & Client Relation
 
-✅ Customer Journey & Adoption
+✅ Customer Adoption & Engagement
 
-✅ Onboarding Programs
+✅ Digital Marketing & Growth Strategy
 
-✅ Customer Health Score
+✅ Lead Generation
 
-✅ Renewal & Retention Strategy
+✅ Performance Monitoring
 
-✅ Churn Reduction
+✅ Cross-Functional Collaboration
 
-✅ Quarterly Business Reviews (QBR)
-
-✅ Revenue Expansion
+✅ Product Advocacy & Voice of Customer
 
 ✅ Process Optimization
 
 ✅ Data-Driven Decision Making
-
-✅ Lead Generation
-
-✅ Digital Marketing
-
 
 ---
 
