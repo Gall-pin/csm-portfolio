@@ -221,8 +221,9 @@ Conversion Rate Optimisation (training in progress)
 ## 📫 Contact
 
 Natalia Galushkina
-🔗 LinkedIn : https://linkedin.com/in/nataliagalushkina
+🔗 LinkedIn : https://linkedin.com/in/natalia-galushkina
 📧 Email : npinho.comm@gmail.com
+💬 WhatsApp : +33 777 88 94 22
 🌍 Localisation : France, Le Mans (Remote-friendly)
 🌐 Languages : French, English, Russian, Chinese (HSK 4).
 
