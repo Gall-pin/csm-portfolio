@@ -50,7 +50,7 @@ Having developed strong experience in client onboarding, retention, satisfaction
 
 ### 😊 Satisfaction
 
-- My individual client's note is 9,5 / 10 
+- My individual clients' satisfaction note is 9,5 / 10 
 - 95% trial-to-paid conversion rate
 
 ---
