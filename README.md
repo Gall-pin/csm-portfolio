@@ -16,7 +16,7 @@ Having developed strong experience in client onboarding, retention, satisfaction
 
 ---
 
-## 🎯 Mes domaines d'expertise
+## 🎯 Core Areas of Expertise
 
 ✅ Customer Success Management
 
@@ -42,7 +42,7 @@ Having developed strong experience in client onboarding, retention, satisfaction
 
 ---
 
-## 📊 Quelques résultats obtenus
+## 📊 Key Results
 
 ### 📈 Retention
 
