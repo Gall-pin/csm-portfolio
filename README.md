@@ -1,6 +1,6 @@
 # csm-portfolio
 Customer Success Manager
-# 👋 Bonjour, je suis Natalia
+# 👋 Hi, I'm Natalia | Bonjour, je suis Natalia
 
 ## Senior Customer Success Manager | Customer Relationship Experience | Business Growth
 
